@@ -1,2 +1,2 @@
-# FirstRemoteRepo
+# FirstRepo
 Jakub Pakula to szef
